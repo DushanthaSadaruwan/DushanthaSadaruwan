@@ -1,60 +1,88 @@
+
 # Hi, I'm Dushantha Sadaruwan 👋
 
-**IT Graduate | IT Support | Networking | Cybersecurity**
+**IT Professional | IT Support | Networking | Cybersecurity | Cloud Computing**
 
-I am an Information Technology graduate with six months of professional experience as an IT Junior Executive. I have experience in IT support, hardware and software troubleshooting, Windows configuration, and network support. I am building my technical skills through practical projects and continuous learning.
+I am an IT professional with six months of professional experience as an IT Junior Executive. I have practical experience in IT support, hardware and software troubleshooting, Windows installation and configuration, and network-related support.
+
+I am passionate about networking, cybersecurity, cloud computing, and research. I continue to develop my technical skills through hands-on projects, professional training, and independent learning.
 
 ## 👨‍💻 About Me
 
-- 🎓 Bachelor of Information Technology Honours
-- 🖥️ Experience in IT support and troubleshooting
-- 🌐 Interested in networking, cybersecurity, and cloud computing
-- 🔬 Exploring cybersecurity research, social engineering, and cyber resilience
-- 🚀 Focused on practical learning and developing job-ready technical skills
+- 🎓 Bachelor of Information Technology (BIT Hons) – ESOFT Metro Campus
+- 🖥️ Six months of professional experience as an IT Junior Executive
+- 🌐 Interested in Networking, Network Security, Cybersecurity, and Cloud Computing
+- 🔬 Exploring Explainable AI (XAI), Social Engineering, and Cyber Resilience
+- 🛡️ Building practical cybersecurity projects using Python and Machine Learning
+- 🚀 Focused on continuous learning and developing job-ready technical skills
 
 ## 🛠️ Projects
 
-### 1. AI-Based Phishing URL Detection System
+### 1. AI-Based Phishing URL Detection System Using Machine Learning
 **Status: Completed**
 
-- Developed a Python-based Random Forest model to classify URLs as potentially phishing or legitimate.
+- Developed a Python-based phishing URL detection system using a Random Forest classifier.
 - Used Pandas and Scikit-learn for data preprocessing, feature extraction, and model training.
+- Implemented URL classification to identify potentially phishing and legitimate URLs.
+- Built a prediction component to evaluate URLs.
 
 ### 2. Explainable AI (XAI) for Phishing Detection Using SHAP
-**Status: In Progress**
+**Status: Completed**
 
-- Developing an explainability component to understand why a machine learning model makes phishing URL predictions.
-- Learning to use SHAP to interpret feature contributions.
+- Developed an Explainable AI component to explain why a machine learning model classifies URLs as phishing or legitimate.
+- Integrated SHAP with the existing Random Forest model.
+- Implemented Python-based URL feature extraction.
+- Generated SHAP explanations to identify important feature contributions.
+- Analyzed risk factors such as URL length, hyphen count, and dot/subdomain count.
+- Improved the interpretability and transparency of phishing detection predictions.
 
 ### 3. Home Security System Using Motion Sensing (IoT)
+**Year: 2024**
 
-- Built an IoT-based security project using Arduino, ESP32-CAM, a PIR sensor, and a GSM module.
-- Implemented motion detection, image capture, and email/SMS alerts.
+- Developed an IoT-based home security system using Arduino, ESP32-CAM, PIR motion sensor, and GSM module.
+- Implemented motion detection and image capture to monitor suspicious movement.
+- Configured email and SMS alerts to notify users when motion was detected.
+- Integrated hardware components to support home security monitoring.
 
-## 📚 Currently Learning
+## 📚 Certifications & Professional Training
 
-- **AWS Cloud:** EC2, VPC, subnets, Internet Gateway, Security Groups, and IP addressing
-- **Networking:** TCP/IP, routing, switching, and network troubleshooting
-- **Cybersecurity:** Security fundamentals, SOC concepts, and Splunk basics
-- **Python & Explainable AI:** Continuing practical development through Project 02
+- **Cybersecurity and Cloud Fundamentals 1.0** – Fortinet Training Institute (October 2026)
+- **Amazon Route 53** – Amazon Web Services (AWS)
+- **Introduction to Cybersecurity** – Cisco Networking Academy (August 2023)
+- **Introduction to IoT** – Cisco Networking Academy (September 2023)
+- **Engaging Stakeholders for Success** – Cisco (August 2023)
+- **Diploma in English**
+- **ICT Course** – Nenasala (Grade A)
+
+## 📖 Currently Learning
+
+- **AWS Cloud:** EC2, VPC, Subnets, Internet Gateway, Security Groups, and IP Addressing
+- **Networking:** TCP/IP, Routing, Switching, and Network Troubleshooting
+- **Cybersecurity:** Security Fundamentals, SOC Concepts, and Splunk Basics
+- **Linux:** Linux fundamentals and command-line operations
+- **Python & Machine Learning:** Practical development and model interpretation
 
 ## 💻 Technical Skills
 
-- **IT Support:** Hardware and software troubleshooting, Windows installation and configuration
-- **Networking:** Networking fundamentals, TCP/IP, routing and switching basics
-- **Programming & Data:** Python, C, Pandas, Scikit-learn (foundational knowledge)
-- **Cloud & Security:** AWS fundamentals, cybersecurity and information security fundamentals
+- **IT Support:** Hardware and Software Troubleshooting, Windows Installation and Configuration
+- **Networking:** Networking Fundamentals, TCP/IP, Routing and Switching Basics
+- **Cybersecurity:** Information Security Fundamentals, Phishing Detection, Security Awareness
+- **Programming & Data:** Python, C, Pandas, Scikit-learn
+- **Explainable AI:** SHAP Fundamentals and Model Interpretability
+- **Cloud Computing:** AWS Cloud Fundamentals, Amazon EC2, Amazon Route 53
 
-## 🏅 Cisco Networking Academy Badges
+## 🏅 Cisco Networking Academy
 
-- Introduction to Cybersecurity — August 2023
-- Introduction to IoT — September 2023
-- Engaging Stakeholders for Success — August 2023
+- Introduction to Cybersecurity
+- Introduction to IoT
+- Engaging Stakeholders for Success
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/dushantha-sadaruwan-205948428/
-- **ORCID:** https://orcid.org/0009-0007-4908-4259
-- **GitHub:** https://github.com/DushanthaSadaruwan
+- **LinkedIn:** [dushantha-sadaruwan](https://www.linkedin.com/in/dushantha-sadaruwan-205948428/)
+- **ORCID:** [0009-0007-4908-4259](https://orcid.org/0009-0007-4908-4259)
+- **GitHub:** [DushanthaSadaruwan](https://github.com/DushanthaSadaruwan)
 
+---
 
+*Always learning, building, researching, and improving.*
